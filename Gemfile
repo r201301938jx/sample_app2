@@ -7,6 +7,8 @@ ruby '2.5.7'
 gem 'rails', '~> 5.2.4', '>= 5.2.4.4'
 gem 'bcrypt'
 gem 'faker'
+gem 'carrierwave'
+gem 'mini_magick'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 # Use sqlite3 as the database for Active Record
